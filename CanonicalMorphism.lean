@@ -1,1 +1,1 @@
-import CanonicalMorphism.Example
+import CanonicalMorphism.HomFromFieldSpec
